@@ -6,7 +6,7 @@ The goal of this free package is to create a tool that will take in stock ticker
 ## TODO:
 - [ ] Choose schema for daily prices database of tickers and download for my stocks.
 - [ ] Create distribution of returns from daily price database.
-- [ ] Write simulation function to randomly choose from distribution and create Markov Chain.
+- [x] Write simulation function to randomly choose from distribution and create Markov Chain.
 - [ ] Write function to calculate if margin is called, and "warning" (within 10% of margin call).
 - [ ] Write function to run simulations for each scenario (no margin, 25%, 50%) and output results.
 - [ ] Create visuals for each scenario and showcase differences.
